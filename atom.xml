@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-01T01:24:33.000Z</updated>
+  <updated>2016-12-01T01:26:52.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/11/30/Java%E5%9F%BA%E7%A1%80/"/>
     <id>http://yoursite.com/2016/11/30/Java基础/</id>
     <published>2016-11-30T06:02:06.000Z</published>
-    <updated>2016-12-01T01:24:33.000Z</updated>
+    <updated>2016-12-01T01:26:52.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="关键字"><a href="#关键字" class="headerlink" title="关键字"></a>关键字</h3><h4 id="关键字概述"><a href="#关键字概述" class="headerlink" title="关键字概述"></a>关键字概述</h4><p>被Java语言赋予特定含义的单词</p>
 <h4 id="关键字特点"><a href="#关键字特点" class="headerlink" title="关键字特点"></a>关键字特点</h4><p>组成关键字的字母全部小写</p>
@@ -36,7 +36,9 @@
 <h5 id="类与类之间关系的关键字"><a href="#类与类之间关系的关键字" class="headerlink" title="类与类之间关系的关键字"></a>类与类之间关系的关键字</h5><p><code>extends</code> <code>implements</code></p>
 <h5 id="建立实例引用实例判断实例的关键字"><a href="#建立实例引用实例判断实例的关键字" class="headerlink" title="建立实例引用实例判断实例的关键字"></a>建立实例引用实例判断实例的关键字</h5><p><code>new</code> <code>this</code> <code>super</code> <code>instanceof</code></p>
 <h5 id="异常处理的关键字"><a href="#异常处理的关键字" class="headerlink" title="异常处理的关键字"></a>异常处理的关键字</h5><p><code>try</code> <code>catch</code> <code>finally</code> <code>throw</code> <code>throws</code></p>
-<h5 id="用于包的关键字"><a href="#用于包的关键字" class="headerlink" title="用于包的关键字"></a>用于包的关键字</h5><h2 id="package-import"><a href="#package-import" class="headerlink" title="package import"></a><code>package</code> <code>import</code></h2><h3 id="标识符"><a href="#标识符" class="headerlink" title="标识符"></a>标识符</h3><h4 id="标识符-1"><a href="#标识符-1" class="headerlink" title="标识符"></a>标识符</h4><p>就是给类、接口、方法、变量等起名字时候使用的字符序列</p>
+<h5 id="用于包的关键字"><a href="#用于包的关键字" class="headerlink" title="用于包的关键字"></a>用于包的关键字</h5><p><code>package</code> <code>import</code></p>
+<hr>
+<h3 id="标识符"><a href="#标识符" class="headerlink" title="标识符"></a>标识符</h3><h4 id="标识符-1"><a href="#标识符-1" class="headerlink" title="标识符"></a>标识符</h4><p>就是给类、接口、方法、变量等起名字时候使用的字符序列</p>
 <h4 id="组成规则"><a href="#组成规则" class="headerlink" title="组成规则"></a>组成规则</h4><p>英文大小写字母、数字字符、$和_</p>
 <h4 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h4><blockquote>
 <p>不能以数字开头<br>不能使Java中的关键字<br>区分大小写</p>
