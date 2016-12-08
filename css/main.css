@@ -996,6 +996,9 @@ pre .javascript .function {
     text-align: center;
   }
 }
+.site-title {
+  font-size: 30px;
+}
 .brand {
   position: relative;
   display: inline-block;
@@ -1004,7 +1007,7 @@ pre .javascript .function {
   border-bottom: none;
 }
 .brand:hover {
-  color: #fff;
+  color: #fc6423;
 }
 .logo {
   display: inline-block;
@@ -1680,7 +1683,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff36d0;
+  background: #4993ff;
 }
 .links-of-blogroll {
   font-size: 13px;
