@@ -997,15 +997,10 @@ pre .javascript .function {
   }
 }
 .brand {
-  background: transparent;
-  color: #555;
-}
-.brand {
   position: relative;
   display: inline-block;
   padding: 0 40px;
-  color: #fff;
-  background: #222;
+  color: #222;
   border-bottom: none;
 }
 .brand:hover {
@@ -1685,7 +1680,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e8ffff;
+  background: #ff36d0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2440,7 +2435,7 @@ embed {
 }
 .custom-logo .site-title {
   margin: 10px auto 0;
-  font-size: 30px;
+  font-size: 24px;
   color: #222;
 }
 .custom-logo .site-title a {
