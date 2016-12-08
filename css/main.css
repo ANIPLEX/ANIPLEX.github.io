@@ -996,9 +996,6 @@ pre .javascript .function {
     text-align: center;
   }
 }
-.site-title {
-  font-size: 30px;
-}
 .brand {
   position: relative;
   display: inline-block;
@@ -1019,6 +1016,7 @@ pre .javascript .function {
   display: inline-block;
   vertical-align: top;
   line-height: 36px;
+  font-size: 30px;
   font-size: 24px;
   font-weight: normal;
   font-family: 'Lobster Two', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -1683,7 +1681,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4993ff;
+  background: #fbb32a;
 }
 .links-of-blogroll {
   font-size: 13px;
